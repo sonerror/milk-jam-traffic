@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291233378894",
+    "project_id": "ushape",
+    "storage_bucket": "ushape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291233378894:android:8bbb314226d82072c3091f",
+        "android_client_info": {
+          "package_name": "com.abi.banana.run"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0FXhMP_iTPcIlilKkatWCzPS7nAX01bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

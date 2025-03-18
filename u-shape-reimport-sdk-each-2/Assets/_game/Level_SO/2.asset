@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 452e4e55bdd243d4d9fdd48ed0b89c08, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  transformDataList:
+  - position: {x: 10.148121, y: 4.383464, z: -1.4448874}
+    eulerAngle: {x: 346.529, y: 44.128994, z: 257.333}
+    scale: {x: 0.9069528, y: 0.90695286, z: 0.9069526}
+  - position: {x: 13.551859, y: 4.775452, z: -0.28227606}
+    eulerAngle: {x: 12.312956, y: 131.13188, z: 346.20563}
+    scale: {x: 0.906953, y: 0.9069525, z: 0.906953}
+  - position: {x: 11.106831, y: 4.8816566, z: -0.96179295}
+    eulerAngle: {x: 346.529, y: 44.128994, z: 257.333}
+    scale: {x: 0.9069528, y: 0.90695286, z: 0.9069526}
+  - position: {x: 10.001559, y: 5.209156, z: 0.50721216}
+    eulerAngle: {x: 288.41043, y: 180.15518, z: 222.4718}
+    scale: {x: 0.90695256, y: 0.90695286, z: 0.9069529}
+  - position: {x: 10.556154, y: 5.561738, z: 1.6416847}
+    eulerAngle: {x: 12.312951, y: 131.13188, z: 76.20565}
+    scale: {x: 0.9069527, y: 0.90695274, z: 0.90695274}
+  - position: {x: 12.620491, y: 5.4026546, z: 0.18795815}
+    eulerAngle: {x: 12.312951, y: 131.13188, z: 76.20565}
+    scale: {x: 0.9069527, y: 0.90695274, z: 0.90695274}
+  - position: {x: 11.169694, y: 5.2635865, z: 0.026450172}
+    eulerAngle: {x: 71.58958, y: 0.15517204, z: 317.5282}
+    scale: {x: 0.90695256, y: 0.90695286, z: 0.9069527}
+  - position: {x: 11.724021, y: 5.270914, z: 1.0682108}
+    eulerAngle: {x: 12.312951, y: 131.13188, z: 76.20565}
+    scale: {x: 0.9069527, y: 0.90695274, z: 0.90695274}
